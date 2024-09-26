@@ -365,6 +365,15 @@ section .title::after{
 .skills-content .right .ninty::before{
     width: 90%;
 }
+<<<<<<< HEAD
+.skills-content .right .eightyfive::before{
+    width: 85%;
+}
+.skills-content .right .sixtyfive::before{
+    width: 65%;
+}
+=======
+>>>>>>> dfe7c9fd769c5c892ee2ed9644f8d668c6720272
 .skills-content .right .sixty::before{
     width: 60%;
 }
